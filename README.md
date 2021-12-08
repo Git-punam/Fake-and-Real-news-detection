@@ -22,5 +22,5 @@ To analyze three different Machine Learning Classification algorithms / models o
 
 **RESULT:**
 
-In this project, modeling process was consist of vectorizing the corpus stored in the “text” column, then applying TF-IDF, and finally a classification machine learning algorithm. After analyzing all three models’ performance, we have come to the conclusion that Decision Tree Classifier model has shown the highest accuracy (99.57%) for our dataset. That means this classification model / algorithm can detect fake and real news with 99.57% accuracy.
+In this project, modeling process was consist of vectorizing the corpus stored in the “text” column, then applying TF-IDF, and finally a classification machine learning algorithm. After analyzing all three models’ performance, it has been observed that Decision Tree Classifier model has shown the highest accuracy (99.57%) for the dataset. That means this classification model / algorithm can detect fake and real news with 99.57% accuracy.
 
